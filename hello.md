@@ -1,2 +1,1 @@
-Hello GitHub! 
-Learning GitHub is fun
+Hello GitHub!
