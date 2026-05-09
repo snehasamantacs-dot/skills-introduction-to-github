@@ -1,1 +1,2 @@
-Hello GitHub! I am Sneha.
+Hello GitHub! 
+Learning GitHub is fun
